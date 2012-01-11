@@ -6,3 +6,4 @@ smartgit
 master
 edit
 dev
+sourcetree
