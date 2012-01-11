@@ -7,4 +7,4 @@ master
 edit
 dev
 sourcetree
-std-master
+std-dev&master
